@@ -3,14 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "main.dart.js": "7a7cac5424d71c721659a9e977d2ae9c",
+  "main.dart.js": "005b8d2119b0cc38fa2b073931c93394",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "assets/NOTICES": "8c529a1e12b439a21f4066735603848b",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/AssetManifest.json": "25991243761661d4baac181faf833c3a",
-"assets/assets/video/landing-piggy_bank-animation-btc.gif": "f04863819c9d8206c546d00c9698cf48",
+"assets/assets/video/landing-piggy_bank-animation-btc.gif": "3fda63ee8bff0af9a6bc63bf3357cc2e",
 "assets/assets/img/stack_blue.svg": "7ff19e812f06039e78a0798520888dcd",
 "assets/assets/img/stack_white.svg": "93e990a1577a355c60cd7e117290cb58",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "a126c025bab9a1b4d8ac5534af76a208",
@@ -20,8 +20,8 @@ const RESOURCES = {
 "version.json": "b10b7790f67f9b8baf201ae1133c1fe3",
 "manifest.json": "e037b2f2386681e66c662d84f436a760",
 "favicon.png": "66eb891c6f930754c45a67a08438e473",
-"index.html": "1f46b95ff6ae9eab08f3ca1ae3ed39e4",
-"/": "1f46b95ff6ae9eab08f3ca1ae3ed39e4"
+"index.html": "158e996daed2270015cd7757b43b4f6d",
+"/": "158e996daed2270015cd7757b43b4f6d"
 };
 
 // The application shell files that are downloaded before a service worker can
