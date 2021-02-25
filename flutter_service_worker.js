@@ -3,23 +3,25 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "main.dart.js": "1d652b0625c2cce66ab1c4fef64ec641",
+  "main.dart.js": "7a7cac5424d71c721659a9e977d2ae9c",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"assets/NOTICES": "283afea7ad5510986e31d39a7f2004fb",
+"assets/NOTICES": "8c529a1e12b439a21f4066735603848b",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/AssetManifest.json": "7b112db8440d55a1dd01f3da939aebbe",
+"assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
+"assets/AssetManifest.json": "25991243761661d4baac181faf833c3a",
 "assets/assets/video/landing-piggy_bank-animation-btc.gif": "f04863819c9d8206c546d00c9698cf48",
-"assets/assets/video/landing-piggy_bank-animation.mp4": "7e1aae688a56304ebcf1ac9955713633",
-"assets/assets/img/twitter.png": "07a2a7377327f7d21219d79201c77fd9",
-"assets/assets/img/stack.png": "ce3cd73c4e8b581bba334cfda3d9cc91",
+"assets/assets/img/stack_blue.svg": "7ff19e812f06039e78a0798520888dcd",
+"assets/assets/img/stack_white.svg": "93e990a1577a355c60cd7e117290cb58",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "a126c025bab9a1b4d8ac5534af76a208",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "d80ca32233940ebadc5ae5372ccd67f9",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "831eb40a2d76095849ba4aecd4340f19",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"version.json": "f7e7ad37519899bf08b2a07c5266585d",
+"version.json": "b10b7790f67f9b8baf201ae1133c1fe3",
 "manifest.json": "e037b2f2386681e66c662d84f436a760",
 "favicon.png": "66eb891c6f930754c45a67a08438e473",
-"index.html": "1a73e4733fca7cb1b02241055437d388",
-"/": "1a73e4733fca7cb1b02241055437d388"
+"index.html": "1f46b95ff6ae9eab08f3ca1ae3ed39e4",
+"/": "1f46b95ff6ae9eab08f3ca1ae3ed39e4"
 };
 
 // The application shell files that are downloaded before a service worker can
