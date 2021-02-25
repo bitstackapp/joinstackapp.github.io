@@ -57213,25 +57213,23 @@ $S:3}
 Z.tm.prototype={
 aG:function(){return new Z.Lv(C.q)}}
 Z.Lv.prototype={
-W:function(a,b){var s,r,q,p,o,n,m=this,l=null,k=t.w
-b.a0(k).toString
-s=K.bt(b)
-r=m.a.c
-if(m.d){q=b.a0(k).f
-k=b.a0(k).f
-p=K.bt(b).x.a
-q=D.ny(l,M.f5(l,l,C.B,P.be(3,p>>>16&255,p>>>8&255,p&255),l,l,l,k.a.b,l,l,l,l,q.a.a),C.bd,!1,l,l,l,l,l,l,l,l,l,l,l,new Z.a6_(m),l,l,l,l,l,l)
-k=q}else k=T.oD(l,l,l)
-if(m.d){q=F.af1(C.l)
-p=K.Qv(12)
-o=b.fW(t.eq).ghG().gGq()
-n=s.aw.y
-p=new T.e2(C.B5,l,l,new T.cG(new V.aM(r,r,r,0),M.f5(l,T.afl(H.a([new T.cG(new V.aM(16,16,0,8),L.p8(o,l,l,n.x6(C.l,16,C.fJ),l),l),new T.cG(new V.aM(16,8,0,4),L.p8("contact@joinstack.app",l,l,n.x6(C.l,14,C.D),l),l),new T.cG(new V.aM(16,8,0,16),L.p8("\xa9Stack",l,l,n.x6(C.l,14,C.D),l),l)],t.fQ),C.jV,C.oN,C.Mn),C.B,l,l,new S.e5(l,l,q,p,l,l,l,C.al),l,l,l,l,l,l,180),l),l)
-q=p}else q=M.f5(l,l,C.B,l,l,l,l,l,l,l,l,l,l)
-if(m.d)p=L.Db(C.rR,m.e?K.bt(b).x:C.l,"close contact information",18)
-else p=L.Db(C.E2,m.e?K.bt(b).x:C.l,"open contact information",20)
-o=t.fQ
-return T.m6(C.cZ,H.a([k,T.afl(H.a([q,new T.cG(new V.aM(r,r/2,r,r),R.t7(!1,!0,M.f5(l,p,C.B,l,l,l,l,l,l,l,l,l,l),l,!0,C.L,l,C.L,C.L,l,l,l,new Z.a60(m),l,new Z.a61(m),C.L),l)],o),C.nr,C.oN,C.oO)],o),C.cX)}}
+W:function(a,b){var s,r,q,p,o,n=this,m=null,l=K.bt(b),k=n.a.c
+if(n.d){s=t.w
+r=b.a0(s).f
+s=b.a0(s).f
+q=K.bt(b).x.a
+r=D.ny(m,M.f5(m,m,C.B,P.be(3,q>>>16&255,q>>>8&255,q&255),m,m,m,s.a.b,m,m,m,m,r.a.a),C.bd,!1,m,m,m,m,m,m,m,m,m,m,m,new Z.a6_(n),m,m,m,m,m,m)
+s=r}else s=T.oD(m,m,m)
+if(n.d){r=F.af1(C.l)
+q=K.Qv(12)
+p=b.fW(t.eq).ghG().gGq()
+o=l.aw.y
+q=new T.e2(C.B5,m,m,new T.cG(new V.aM(k,k,k,0),M.f5(m,T.afl(H.a([new T.cG(new V.aM(16,16,0,8),L.p8(p,m,m,o.x6(C.l,16,C.fJ),m),m),new T.cG(new V.aM(16,8,0,4),L.p8("contact@joinstack.app",m,m,o.x6(C.l,14,C.D),m),m),new T.cG(new V.aM(16,8,0,16),L.p8("\xa9Stack",m,m,o.x6(C.l,14,C.D),m),m)],t.fQ),C.jV,C.oN,C.Mn),C.B,m,m,new S.e5(m,m,r,q,m,m,m,C.al),m,m,m,m,m,m,180),m),m)
+r=q}else r=M.f5(m,m,C.B,m,m,m,m,m,m,m,m,m,m)
+if(n.d)q=L.Db(C.rR,n.e?K.bt(b).x:C.l,"close contact information",18)
+else q=L.Db(C.E2,n.e?K.bt(b).x:C.l,"open contact information",20)
+p=t.fQ
+return T.m6(C.cZ,H.a([s,T.afl(H.a([r,new T.cG(new V.aM(k,k/2,k,k),R.t7(!1,!0,M.f5(m,q,C.B,m,m,m,m,m,m,m,m,m,m),m,!0,C.L,m,C.L,C.L,m,m,m,new Z.a60(n),m,new Z.a61(n),C.L),m)],p),C.nr,C.oN,C.oO)],p),C.cX)}}
 Z.a6_.prototype={
 $0:function(){var s=this.a
 return s.aj(new Z.a5Z(s))},
