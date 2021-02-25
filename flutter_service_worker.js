@@ -3,16 +3,17 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "main.dart.js": "c54c3f4bede2b1f4c492f06380537b13",
+  "main.dart.js": "340210e0367a3bbbab3ae2922ccb239e",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/stack.png": "f8c9084b2b4eb57c371cb354bb816a06",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"assets/NOTICES": "c7795e71752885bb6bcae91aacc6453a",
+"assets/NOTICES": "3bf38d91904831cdf43954161155a173",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
-"assets/AssetManifest.json": "25991243761661d4baac181faf833c3a",
+"assets/AssetManifest.json": "3d5669dddc647ebac16c0c30c0f278e1",
 "assets/assets/video/landing-piggy_bank-animation-btc.gif": "3fda63ee8bff0af9a6bc63bf3357cc2e",
 "assets/assets/img/stack_blue.svg": "7ff19e812f06039e78a0798520888dcd",
+"assets/assets/img/stack.png": "51eee1bef4c3862cc0fa668bc96e9195",
 "assets/assets/img/stack_white.svg": "93e990a1577a355c60cd7e117290cb58",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "a126c025bab9a1b4d8ac5534af76a208",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "d80ca32233940ebadc5ae5372ccd67f9",
@@ -21,8 +22,8 @@ const RESOURCES = {
 "version.json": "b10b7790f67f9b8baf201ae1133c1fe3",
 "manifest.json": "e037b2f2386681e66c662d84f436a760",
 "favicon.png": "66eb891c6f930754c45a67a08438e473",
-"index.html": "b3b74bb09eca35b51e8ebee4d23cf1fd",
-"/": "b3b74bb09eca35b51e8ebee4d23cf1fd"
+"index.html": "12a7423a53431e6cfb8e986182a09192",
+"/": "12a7423a53431e6cfb8e986182a09192"
 };
 
 // The application shell files that are downloaded before a service worker can
