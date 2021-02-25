@@ -1,11 +1,11 @@
 {
-    "name": "web_playground",
-    "short_name": "web_playground",
+    "name": "Stack",
+    "short_name": "Stack - Investissez dans le Bitcoin, simplement",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Stack, c'est l'application pour investir dans le Bitcoin, simplement. Programmez des achats récurrents ou transformez votre petite monnaie en bitcoin.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
