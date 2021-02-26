@@ -3,13 +3,17 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "main.dart.js": "defb1664927fb995e2a531108a7848c2",
+  "main.dart.js": "34140802f14a1704ae612f2af70fba66",
 "icons/Icon-192.png": "5720e1d542215535eabd86fc296ab48f",
 "icons/Icon-512.png": "6f3a9046c4005936188f8f534e089ec2",
-"assets/NOTICES": "155f422b11949ecf62d397ee1286c50f",
+"assets/NOTICES": "085bc9aa99f04bab58a016f9a2c52337",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
-"assets/AssetManifest.json": "8e560203146e1ff41658bac868f6e8d6",
+"assets/FontManifest.json": "b26d80e7bd6581202e5f82ee5d8bf4e2",
+"assets/AssetManifest.json": "12e3b92576f3132de16e2f40d03d40bb",
+"assets/assets/fonts/Metric-BoldItalic.otf": "129f34f07defd086c9a702e49eb3dd17",
+"assets/assets/fonts/Metric-BlackItalic.otf": "ec05244942686ad0c1319b8c9ad3a46c",
+"assets/assets/fonts/Metric-Regular.otf": "0f1aec85d172031aae3d163adab69456",
+"assets/assets/fonts/Metric-Bold.otf": "c997c236f57d4553c6ba71a59e70dfc1",
 "assets/assets/video/landing-piggy_bank-animation-btc.gif": "3fda63ee8bff0af9a6bc63bf3357cc2e",
 "assets/assets/img/stack_blue.svg": "7ff19e812f06039e78a0798520888dcd",
 "assets/assets/img/stack_blue.png": "f8c9084b2b4eb57c371cb354bb816a06",
@@ -21,8 +25,8 @@ const RESOURCES = {
 "version.json": "b10b7790f67f9b8baf201ae1133c1fe3",
 "manifest.json": "57c156de612785a4dcd6d4146cf29eb9",
 "favicon.png": "115b79792c869e3a15803b10c06ed6ad",
-"index.html": "b42e235fe57751877ba511abf0711d6f",
-"/": "b42e235fe57751877ba511abf0711d6f"
+"index.html": "18896809f9ef771862527c8afe205b00",
+"/": "18896809f9ef771862527c8afe205b00"
 };
 
 // The application shell files that are downloaded before a service worker can
