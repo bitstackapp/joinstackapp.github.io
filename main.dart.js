@@ -58631,7 +58631,7 @@ q=q?K.aF(b).rx:C.V
 if(m.d){o=t.w
 n=b.a_(o).f.a
 if(n.gjW(n)>1)o=b.a_(o).f.a.a*0.6>400?400:b.a_(o).f.a.a*0.6
-else o=b.a_(o).f.a.a-2*m.a.c}else o=300
+else o=b.a_(o).f.a.a-2*m.a.c}else o=240
 n=m.e
 q=q!=null?new S.ef(q,l,l,l,l,l,l,C.ak):l
 o=S.nt(l,o)
