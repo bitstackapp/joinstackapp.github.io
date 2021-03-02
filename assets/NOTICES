@@ -11947,6 +11947,9 @@ shared_preferences
 shared_preferences_platform_interface
 url_launcher
 url_launcher_platform_interface
+video_player
+video_player_platform_interface
+video_player_web
 
 Copyright 2017 The Chromium Authors. All rights reserved.
 
