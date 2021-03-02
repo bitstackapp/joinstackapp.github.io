@@ -58487,7 +58487,7 @@ q=D.o3(l,M.dX(l,l,C.y,P.bm(3,p.gq(p)>>>16&255,p.gq(p)>>>8&255,p.gq(p)&255),l,l,l
 r=q}else r=T.pc(l,l,l)
 q=m.d?new T.dV(C.Bm,l,l,new E.AU(s,l),l):M.dX(l,l,C.y,l,l,l,l,l,l,l,l,l,l)
 p=b.a_(t.w).f.a
-p=p.giZ(p)>1?s/2.5:s/1.5
+p=p.giZ(p)>1?8:s/1.5
 if(m.d)o=L.DZ(C.t5,m.e?K.aF(b).b:K.aF(b).x,"close contact information",18)
 else o=L.DZ(C.Ev,m.e?K.aF(b).b:K.aF(b).x,"open contact information",20)
 n=t.fQ
