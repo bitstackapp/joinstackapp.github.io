@@ -21,10 +21,10 @@ const RESOURCES = {
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "d80ca32233940ebadc5ae5372ccd67f9",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "831eb40a2d76095849ba4aecd4340f19",
 "assets/FontManifest.json": "a6f1a2e5f4de3ad86f59f977966bb873",
-"index.html": "aa6321a8ded95ab300acbb214cd9c0c3",
-"/": "aa6321a8ded95ab300acbb214cd9c0c3",
+"index.html": "9e7ae142f7fe7445a71d8d9793628d7b",
+"/": "9e7ae142f7fe7445a71d8d9793628d7b",
 "main.dart.js": "a94558f927d0fa05c6679e94361a1e0a",
-"CNAME": "ec2651dd867a66a9768897a1e01797bf",
+"CNAME": "50cc6866259c5da1ce5fabc0be2ab16f",
 "version.json": "b10b7790f67f9b8baf201ae1133c1fe3",
 "favicon.png": "115b79792c869e3a15803b10c06ed6ad"
 };
