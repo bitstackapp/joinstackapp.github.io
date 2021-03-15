@@ -6,7 +6,7 @@ const RESOURCES = {
   "manifest.json": "57c156de612785a4dcd6d4146cf29eb9",
 "icons/Icon-192.png": "5720e1d542215535eabd86fc296ab48f",
 "icons/Icon-512.png": "6f3a9046c4005936188f8f534e089ec2",
-"assets/NOTICES": "f4ead2617311a293509a02c86dffd5f0",
+"assets/NOTICES": "01c9deccdcdd7eba2b407ca6c7ced754",
 "assets/assets/fonts/Metric-Regular.otf": "0f1aec85d172031aae3d163adab69456",
 "assets/assets/fonts/Metric-ThinItalic.otf": "7d3d2433f2b233547d3414515edd2625",
 "assets/assets/fonts/Metric-Medium.otf": "fe425ce187293c0373a6e607d8051ebd",
@@ -29,9 +29,9 @@ const RESOURCES = {
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "d80ca32233940ebadc5ae5372ccd67f9",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "831eb40a2d76095849ba4aecd4340f19",
 "assets/FontManifest.json": "4cedb49bd09d72bc043ab3f8dc199d4c",
-"index.html": "4acaa92db0e107fbd9b9125dba59ff91",
-"/": "4acaa92db0e107fbd9b9125dba59ff91",
-"main.dart.js": "ba920d3f548a5d20864cab24f8557cf8",
+"index.html": "806ac3abca0243719a0e686a4bc402f6",
+"/": "806ac3abca0243719a0e686a4bc402f6",
+"main.dart.js": "efb824f19d07d5313630e89f2f1007a3",
 "CNAME": "50cc6866259c5da1ce5fabc0be2ab16f",
 "version.json": "b10b7790f67f9b8baf201ae1133c1fe3",
 "favicon.png": "115b79792c869e3a15803b10c06ed6ad"
@@ -52,7 +52,7 @@ self.addEventListener("install", (event) => {
   return event.waitUntil(
     caches.open(TEMP).then((cache) => {
       return cache.addAll(
-        CORE.map((value) => new Request(value + '?revision=' + RESOURCES[value], {'cache': 'reload'})));
+        CORE.map((value) => new Request(value, {'cache': 'reload'})));
     })
   );
 });
