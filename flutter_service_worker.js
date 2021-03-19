@@ -31,9 +31,9 @@ const RESOURCES = {
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "831eb40a2d76095849ba4aecd4340f19",
 "assets/FontManifest.json": "4cedb49bd09d72bc043ab3f8dc199d4c",
 "404.html": "353a85b72f02ed70674103fbfc51e4a2",
-"index.html": "3e698e3f1e6a41e1fd681b4325711ed2",
-"/": "3e698e3f1e6a41e1fd681b4325711ed2",
-"main.dart.js": "1c08c62a29dbc6f9f1cff3f75e03acde",
+"index.html": "4ad681e8a18e205da0a7491a333a28dd",
+"/": "4ad681e8a18e205da0a7491a333a28dd",
+"main.dart.js": "a0753b7baf95524026daa5ee43acdc0e",
 "CNAME": "50cc6866259c5da1ce5fabc0be2ab16f",
 "version.json": "b10b7790f67f9b8baf201ae1133c1fe3",
 "favicon.png": "115b79792c869e3a15803b10c06ed6ad"
