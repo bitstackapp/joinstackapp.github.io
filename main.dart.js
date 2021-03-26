@@ -56107,7 +56107,7 @@ gAi:function(){return"Simple. Automatic. Secure."}}
 R.rk.prototype={
 gH1:function(){return"Contact"},
 gyi:function(){return"Joindre la liste d'attente"},
-gIB:function(){return"Stack est seulement disponible pour le r\xe9sidents fran\xe7ais"},
+gIB:function(){return"Stack est seulement disponible pour les r\xe9sidents fran\xe7ais"},
 gIC:function(){return"Il semblerait que vous nous rendiez visite depuis l'ext\xe9rieur de la France. Nous ne sommes actuellement accessibles qu'aux r\xe9sidents fran\xe7ais \xe2g\xe9s de plus de 18 ans. Veuillez laisser votre email ici et nous vous informerons de notre lancement dans d'autres pays."},
 gID:function(){return"Entrez votre e-mail pour vous inscrire \xe0 l\u2019acc\xe8s anticip\xe9 \xe0 l\u2019application Stack !"},
 gH3:function(){return"Continuer"},
